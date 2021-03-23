@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/frozendark01/frozendark01/blob/main/frozendark-photo.jpg">
 
 <!--
 **frozendark01/frozendark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
