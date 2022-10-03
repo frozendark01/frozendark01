@@ -6,6 +6,7 @@
 ###
 
 <div align="left">
+<img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="40" width="52" alt="vmware logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
