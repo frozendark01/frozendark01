@@ -1,5 +1,5 @@
 <hr/>
-div align="left">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  />
 </div>
 <img src="https://github.com/frozendark01/frozendark01/blob/main/gitbanner.jpg">
