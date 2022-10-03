@@ -1,11 +1,11 @@
 <hr/>
 <img src="https://github.com/frozendark01/frozendark01/blob/main/gitbanner.jpg">
 
-<h2 align="left">Tooling I use,</h2>
+<h2 align="left">I use,</h2>
 
 ###
 
-<div align="left">
+<div align="center">
 <img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="40" width="52" alt="vmware logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
