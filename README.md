@@ -1,13 +1,11 @@
-<hr>
+##
 
 </div>
 <img src="https://github.com/frozendark01/frozendark01/blob/main/gitbanner.jpg">
 
 
-
 <h2 align="left">I use,</h2>
 
-###
 
 <div align="center">
 <img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="45" width="45" alt="vmware logo"  />
@@ -24,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
-###
+##
 <div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  />
 <br/>
