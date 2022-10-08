@@ -1,7 +1,7 @@
 ##
 
 </div>
-<img src="https://github.com/frozendark01/frozendark01/blob/main/gitbanner.jpg">
+<img src="https://github.com/frozendark01/frozendark01/blob/main/frzndrk.png">
 
 
 <h2 align="left">I use,</h2>
