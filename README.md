@@ -22,11 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
+##
+
+
 <p align="center">
 <img width="500" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
 </p>
 
-##
+
 <div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
   </div>
