@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<img width="500" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
+<img width="600" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
 </p>
 
 
