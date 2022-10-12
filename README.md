@@ -1,8 +1,8 @@
 ##
 
-</div>
+<div align="center">
 <img src="https://github.com/frozendark01/frozendark01/blob/main/frzndrk.png">
-
+</div>
 
 <h2 align="left">I use,</h2>
 
@@ -24,5 +24,6 @@
 
 ##
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
+  </div>
 <br/>
