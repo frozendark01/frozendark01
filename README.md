@@ -33,9 +33,10 @@
   ---
                                                           ⚙️  GitHub Analytics
                                            
-![Frozendark's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozendark01&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozendark01&layout=compact&theme=github_dark)](https://github.com/frozendark01/github-readme-stats)
-
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=frozendark01&show_icons=true&hide_border=true&theme=github_dark" alt="MehedilslamRipon's stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frozendark01&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="frozendark's stats"/>
+</p>
   ---
 <div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
