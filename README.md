@@ -39,6 +39,6 @@
 
   ---
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
   </div>
 <br/>
