@@ -33,7 +33,7 @@
                                                      ⚙️  GitHub Analytics
                                            
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=frozendark01&count_private=trues&how_icons=true&theme=github_dark" alt="MehedilslamRipon's stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=frozendark01&count_private=trues&line_height=20&include_all_commits=true&how_icons=true&theme=github_dark" alt="frozendark's stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frozendark01&count_private=trues&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="frozendark's stats"/>
 </p>
 
