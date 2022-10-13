@@ -5,7 +5,7 @@
 </div>
 <br />
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=30&duration=4000&pause=44000&color=F7E33F&background=CFCFCF00&center=true&vCenter=true&width=450&lines=Tehnologies+%26+tools+i+use" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=30&duration=4000&pause=44000&color=fed217&background=CFCFCF00&center=true&vCenter=true&width=450&lines=Tehnologies+%26+tools+i+use" alt="Typing SVG" /></a>
 </p>
 <div align="center">
 <img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="45" width="45" alt="vmware logo"  />
