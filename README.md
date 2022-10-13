@@ -25,7 +25,8 @@ tehnologies & tools i use
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
-
+<br />
+<br />
 
 <p align="center">
 <img width="700" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
