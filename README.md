@@ -5,9 +5,10 @@
 </div>
 <br />
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Avenit+next&size=23&duration=5003&pause=1000&width=446&height=51&lines=Technologies+%26+Tools+" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">
+tehnologies & tools i use
+</h3>
+<br />
 
 <div align="center">
 <img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="45" width="45" alt="vmware logo"  />
