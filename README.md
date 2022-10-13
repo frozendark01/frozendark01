@@ -4,12 +4,9 @@
 <img src="https://github.com/frozendark01/frozendark01/blob/main/frzndrk.png">
 </div>
 <br />
-
-<h3 align="center">
-tehnologies & tools i use
-</h3>
-<br />
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=30&duration=4000&pause=84000&color=F7E33F&background=CFCFCF00&center=true&vCenter=true&width=450&lines=Tehnologies+%26+tools+i+use" alt="Typing SVG" /></a>
+</p>
 <div align="center">
 <img src="https://github.com/walkxcode/Dashboard-Icons/blob/11899c403f3a60336c11dd247cdcc95795530a1a/png/vmwarevcenter.png" height="45" width="45" alt="vmware logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
