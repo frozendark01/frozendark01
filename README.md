@@ -40,5 +40,7 @@
 
   ---
 <div align="right">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
+<a href="https://github.com/frozendark01/frozendark01/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/frozendark01/frozendark01" /></a>
+    <a href="https://github.com/frozendark01?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/frozendark01?color=4C1&logo=github"></a>
+    <a href="https://github.com/frozendark01/frozendark01" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/frozendark01/frozendark01?label=Profile%20update&style=fflat-square"></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=frozendark01"  /> 
   </div>
