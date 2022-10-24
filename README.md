@@ -27,11 +27,6 @@
 <br />
 <br />
 
-<p align="center">
-<img width="700" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
-</p>
-
-
                                                      ⚙️  GitHub Analytics
                                            
 <p align="center">
@@ -39,6 +34,14 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frozendark01&count_private=trues&card_width=300&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="frozendark's stats"/>
 </p>
 
+
+<p align="center">
+<img width="700" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
+</p>
+
+ <p align="right"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> &nbsp;  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> &nbsp;  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+ </p>
+ 
   ---
 <div align="right">
 <a href="https://github.com/frozendark01/frozendark01/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/frozendark01/frozendark01" /></a>
