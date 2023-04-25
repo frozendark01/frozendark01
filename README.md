@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="illustrator logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
 <br />
