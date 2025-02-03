@@ -4,25 +4,6 @@
 <img src="https://github.com/frozendark01/frozendark01/blob/main/frzndrk-git.png">
 </div>
 <br />
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=30&duration=4000&pause=44000&color=298EBBFF&background=CFCFCF00&center=true&vCenter=true&width=450&lines=Tehnologies+%26+tools+i+use" alt="Typing SVG" /></a>
-</p>
-<div align="center">
-<img src="https://github.com/frozendark01/frozendark01/blob/5fd8582c6d027c5339173b7fe6b0afe65a3ba660/icons/vSphere-7.png" height="43" width="60" alt="vmware logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" width="62" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="k8s logo"  />
-  <img src="https://github.com/walkxcode/Dashboard-Icons/blob/main/png/ansible.png" height="44" width="44" alt="ansible logo"  />
-  <img src="https://github.com/walkxcode/Dashboard-Icons/blob/main/png/github-light.png" height="40" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-</div>
-
-<br />
 <br />
 
                                                      ⚙️  GitHub Analytics
