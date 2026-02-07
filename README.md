@@ -4,13 +4,11 @@
 </div>
 <br />
 <br />
-
-                                                     ⚙️  GitHub Analytics
                                            
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=frozendark01&count_private=trues&line_height=20&card_width=400&include_all_commits=false&how_icons=true&theme=github_dark" alt="frozendark's stats" /> &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frozendark01&count_private=trues&card_width=300&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="frozendark's stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=frozendark01&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=frozendark01&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=frozendark01&layout=compact&theme=github_dark)
+
 
 
 <p align="center">
