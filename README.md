@@ -6,7 +6,6 @@
 <br />
                                            
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=frozendark01&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=frozendark01&layout=compact&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=frozendark01&theme=github_dark)
 
 
