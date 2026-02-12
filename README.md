@@ -4,9 +4,13 @@
 </div>
 <br />
 <br />
-                                           
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=frozendark01&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=frozendark01&theme=github_dark)
+
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=frozendark01&theme=github_dark" />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=frozendark01&show_icons=true&theme=github_dark" />
+</div>
 
 
 
