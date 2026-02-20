@@ -3,11 +3,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 <br />
-
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=frozendark01&theme=github_dark" />
+</div>
 
 <p align="center">
 <img width="700" src="https://github.com/frozendark01/frozendark01/blob/main/github-snake.svg" />
